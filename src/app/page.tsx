@@ -17,7 +17,7 @@ export default function Home() {
           >
             By{" "}
             <Image
-              src="/vercel.svg"
+              src="/home/rowdy/new_era/nextjs/corinna-ai/public/vercel.svg"
               alt="Vercel Logo"
               className="dark:invert"
               width={100}
