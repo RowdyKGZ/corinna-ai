@@ -34,3 +34,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+make anketa fin guarantor, make anketa car, fix bugs for clientId add url clientId, загрузка фоток для залого авто,
+анкета недвижки загрузка фоток недвижки, загрузка документов недвижки, изменение вид и цели кредитов подтягивание их с бэка
+страница просмотра данных клиента и заявки
+страница просмотра историй обращений в киб и база банка
+страница просмотра данных запросы по заявки
+страница стопфакторов и проверка рейтинга килента
+отображение информация о текущих обязательст клиента
+
